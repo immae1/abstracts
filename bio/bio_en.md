@@ -1,0 +1,5 @@
+# Speaker-Bio  
+
+## EN Immanuel Haag  
+
+Immanuel Haag is consultant in the field of Technology Consulting at Novatec Consulting GmbH. In this role, he helps customers and internal employees to select and deploy the appropriate cloud technologies, especially regarding skill building. His technical focus is Infrastructure as Code, Container and Platform Technologies. He already wrote his master thesis with a strong practical orientation and included the evaluation and setup of a Terraform-based training environment for Docker, Kubernetes and Cloud fFoundry, which is still used by Novatec for trainings. He conduct these trainings with colleagues for customers, internal employees, at conferences as well as in a student environment. His bachelor thesis had already focused on Docker in the environment of a migration from a Python-based web application, which he completed at a start-up. During his studies he worked for three companies as a working student in the area of infrastructure and administration in the Linux area. Before that, Immanuel had already completed an apprenticeship as an IT specialist for system integration at Weru GmbH.
